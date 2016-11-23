@@ -1,0 +1,3 @@
+services:
+    mntr.service.process:
+        class: Mntr\Service\ProcessService
